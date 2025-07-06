@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /demo/
+Disallow: /src/
+Disallow: /vendor/
+Disallow: /handler.php
+Disallow: /*.js$
+
+Allow: /
+
+Sitemap: https://thecocoonvn.vercel.app/sitemap.xml
